@@ -55,10 +55,11 @@ Checkout Page: View all items, change quantity (via input), or delete items.
 
 Quantity Update: Input appears when clicking "Update", press Enter to confirm.
 
-## 🛠️ Future Improvements
 Store cart data in localStorage for persistence
 
 Add total price calculation
+
+## 🛠️ Future Improvements
 
 Implement product search/filtering
 
